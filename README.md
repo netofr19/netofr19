@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Francisco Procópio!
 
-- 🔭 I’m currently working on **Process Optimization** using the Python language;
-- 🌱 I’m currently learning **Data structures using the C language**, **Data Science** with python, **Machine Learning**, **Artificial Intelligence** and **TDD - Test Driven Development**;
-- 👯 I’m looking to collaborate on **Python development projects**, **data science**, **machine learning and artificial intelligence projects** and **projects that use the C language**
+- :notebook: I've a bachelor and master's degree in mechanical engineer 
+- 🔭 I currently work with **systems development**, **process optimization** and **data science** using the Python language;
+- 🌱 I have knowledge in **Data structures** using the C and C++ languages, **Data Science, Machine Learning and Artificial Intelligence** using Python Language, **Django**, **SQL** using MySQL and PostgreSQL and **NoSQL** using MongoDB;
+- 👯 I’m looking to collaborate on **Python development projects**, **data science**, **machine learning and artificial intelligence projects** and **Projects based on data structures or based on object-oriented programming**
 - 😄 Pronouns: He/Him
 
 <a href="https://github.com/netofr19/github-readme-stats">
